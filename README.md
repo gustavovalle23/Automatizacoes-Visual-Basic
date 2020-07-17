@@ -1,4 +1,4 @@
-# Automatizações de Planilha
+# Automatizações de Rotina
 
 ## Macros feitas em Visual Basic
 
