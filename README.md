@@ -1,9 +1,14 @@
-# Automatizações de Rotina
+# Routine Automations
 
-## Macros feitas em Visual Basic
+## Macros made in Visual Basic
 
-1. Valores
-- É realizado um preenchimento automático do valor do frete com base na cidade de origem, cidade destino e quantidade de caixas transportada
+1. Values
+- An automatic filling of the freight value is carried out based on the city of origin, destination city and quantity of boxes transported.
 
-2. Montagem do Detalhado
-- É realizada a automatização da montagem da planilha. Visto que, geralmente demorava cerca de 20/30 minutos para a montagem de cada detalhado.
+2. Assembly of the Detailed
+- Automation of the spreadsheet assembly is performed. Since, it usually took about 20/30 minutes to assemble each detail.
+
+## Web Scraping made in Python
+
+1. Absences in classes
+- A consultation of all absences in the current semester
