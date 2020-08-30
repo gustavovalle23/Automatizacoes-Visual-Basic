@@ -56,3 +56,4 @@ class Email(object):
 
 myEmail = Email('YourEmail', 'YourPassword')
 myEmail.sendEmal('DestinationEmail', 'SubjectEmail', 'MessageEmail')
+
