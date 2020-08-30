@@ -12,3 +12,8 @@
 
 1. Absences in classes
 - A consultation of all absences in the current semester
+
+
+## Miscellaneous Tests
+1. Send Email
+- Short script to send emails with function or class
