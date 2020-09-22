@@ -4,3 +4,5 @@ def contagemRegressiva(n):
     else:
         print(n)
         contagemRegressiva(n-1)
+
+contagemRegressiva(5)
